@@ -14,7 +14,7 @@ TextCraft AI is a Flutter-based application that utilizes OpenAI's GPT-3 model t
 To run the TextCraft AI application locally, follow these steps:
 
 1. Clone the repository:
-`git clone https://github.com/your-username/TextCraft-AI.git`
+`git clone https://github.com/ganesh-vallabhareddy/TextCraft-AI.git`
 
 2. Navigate to the project directory:
 `cd TextCraft-AI`
