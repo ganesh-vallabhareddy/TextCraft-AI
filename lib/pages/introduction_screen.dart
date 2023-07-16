@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:textcraft/components/ele_button.dart';
 
-import 'auth/auth.dart';
+import '../auth/auth.dart';
 
 class IntroScreen extends StatefulWidget {
   @override

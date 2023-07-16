@@ -2,7 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:textcraft/components/button.dart';
 import 'package:textcraft/components/textfield.dart';
-import 'package:textcraft/introduction_screen.dart';
+import 'package:textcraft/pages/introduction_screen.dart';
 
 class LoginPage extends StatefulWidget {
   final Function()? onTap;

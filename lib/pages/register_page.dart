@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:textcraft/components/button.dart';
 import 'package:textcraft/components/textfield.dart';
 
-import '../introduction_screen.dart';
+import 'introduction_screen.dart';
 
 class RegisterPage extends StatefulWidget {
   final Function()? onTap;

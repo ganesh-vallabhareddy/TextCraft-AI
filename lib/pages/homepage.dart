@@ -28,7 +28,7 @@ class _HomePageState extends State<HomePage> {
 
   void initState() {
     openAI = OpenAI.instance
-        .build(token: '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');
+        .build(token: 'Your_API_KEY'); // Replace with your API key
     super.initState();
   }
 
@@ -93,11 +93,10 @@ class _HomePageState extends State<HomePage> {
     showDialog(
       context: context,
       builder: (context) {
-    
         return AlertDialog(
           title: Center(child: Text('Rephrasing...')),
           content: Container(
-            height: 100, 
+            height: 100,
             child: SingleChildScrollView(
               child: Center(child: LoadingWidget()),
             ),
