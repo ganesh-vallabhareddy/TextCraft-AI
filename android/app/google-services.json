@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086134970402",
+    "project_id": "textcraft-80c50",
+    "storage_bucket": "textcraft-80c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086134970402:android:c8c18e8fe941240fe4827b",
+        "android_client_info": {
+          "package_name": "com.example.textcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086134970402-b1orjso1lidnedb6mgqk8hfie1295m1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC49hgpWkKJo-YJRNjX-_vCRt7oan6FYLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086134970402-b1orjso1lidnedb6mgqk8hfie1295m1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
